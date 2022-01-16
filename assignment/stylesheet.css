@@ -1,13 +1,8 @@
-.header {
+header {
   background-color: #9C7863;
 }
 
-.info {
-  background-color: #63879C;
-  color: white;
-}
-
-h3 {
+.info, h3 {
   background-color: #63879C;
   color: white;
 }
